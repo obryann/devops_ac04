@@ -1,3 +1,2 @@
-# AC 04 - DevOps
-
-## Bryan de Almeida Gonçalves - RA: 1901236
+# Repo using Travis CI
+ This Repo is my first time using Continuos Integration, with tests.
